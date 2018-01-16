@@ -1,6 +1,6 @@
 <?php
 
-namespace \yii2x\rbac;
+namespace yii2x\rbac;
 
 /**
  * enterprise module definition class
